@@ -1,5 +1,5 @@
 // Projeto Irrigador Inteligente                                                //
-// ProgramaÃ§Ã£o usando um MÃ³dulo RelÃ© 5V e um Display LCD (20x4) com MÃ³dulo I2C  //
+// Programacao usando um Modulo Rele 5V e um Display LCD (20x4) com Modulo I2C  //
 
 // Inclui as bibliotecas para funcionamento do display
 #include <Wire.h>
