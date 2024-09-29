@@ -1,3 +1,5 @@
+#include "arduino_secrets.h"
+
 // Projeto Irrigador Inteligente                                                //
 // Programacao usando um Modulo Rele 5V e um Display LCD (20x4) com Modulo I2C  //
 
